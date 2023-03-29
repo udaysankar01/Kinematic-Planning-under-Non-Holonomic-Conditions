@@ -9,7 +9,7 @@ The objective is to create a simulated world and park three vehicles into a comp
 
 Set the project directory as the workspace,
 
-`cd ./Kinematic-Planning-under-Non-Holonomic-Conditions'
+`cd ./Kinematic-Planning-under-Non-Holonomic-Conditions`
 
 To simulate the di-wheel delivery robot, 
 
