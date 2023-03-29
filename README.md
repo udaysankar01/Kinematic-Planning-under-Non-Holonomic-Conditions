@@ -35,5 +35,9 @@ To simulate the truck with a trailer attached,
 
 The simualation of the truck and the path taken is shown below:
 
-<img src="animations/truck.gif" alt="Truck" width="400">
+<!-- <img src="animations/truck.gif" alt="Truck" width="400"> -->
+<div style="display: flex;">
+  <img src="animations/truck.gif" alt="Truck" width="50%">
+  <img src="paths/truck.png" alt="Truck" width="50%">
+</div>
 
