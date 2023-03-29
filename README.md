@@ -41,5 +41,5 @@ The simualation of the truck and the path taken is shown below:
   <img src="paths/truck.png" alt="Truck" width="50%">
 </div> -->
 <img src="animations/truck.gif" alt="Truck" style="float: left; margin-right: 10px;" width="50%">
-<img src="paths/truck.png" alt="Truck" style="float: left; margin-right: 10px;" width="50%">
+<img src="paths/truck.png" alt="Truck" style="float: right; margin-right: 10px;" width="50%">
 
