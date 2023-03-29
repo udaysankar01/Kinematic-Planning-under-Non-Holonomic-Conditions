@@ -17,7 +17,8 @@ To simulate the di-wheel delivery robot,
 
 The simualation of the di-wheel delivery robot and the path taken is shown below:
 
-![Alt Text](animations/car.gif)
+<!-- ![Alt Text](animations/delivery_robot.gif) -->
+<img src="animations/delivery_robot.gif" alt="Delivery Robot" width="400" height="400">
 
 To simulate the standard car using Ackermann's principle,
 
