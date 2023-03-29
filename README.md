@@ -17,8 +17,10 @@ To simulate the di-wheel delivery robot,
 
 The simualation of the di-wheel delivery robot and the path taken is shown below:
 
-<!-- ![Alt Text](animations/delivery_robot.gif) -->
-<img src="animations/delivery_robot.gif" alt="Delivery Robot" width="400">
+<p float="left">
+  <img src="animations/delivery_robot.gif" width="50%" />
+  <img src="paths/delivery_robot.png" width="50%" /> 
+</p>
 
 To simulate the standard car using Ackermann's principle,
 
@@ -26,7 +28,10 @@ To simulate the standard car using Ackermann's principle,
 
 The simualation of the standard car and the path taken is shown below:
 
-<img src="animations/car.gif" alt="Car" width="400">
+<p float="left">
+  <img src="animations/car.gif" width="50%" />
+  <img src="paths/car.png" width="50%" /> 
+</p>
 
 
 To simulate the truck with a trailer attached, 
@@ -35,8 +40,7 @@ To simulate the truck with a trailer attached,
 
 The simualation of the truck and the path taken is shown below:
 
-<!-- <img src="animations/truck.gif" alt="Truck" width="400"> -->
 <p float="left">
-  <img src="animations/truck.gif" width="400" />
-  <img src="paths/truck.png" width="400" /> 
+  <img src="animations/truck.gif" width="50%" />
+  <img src="paths/truck.png" width="50%" /> 
 </p>
